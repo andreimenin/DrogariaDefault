@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+
+body{
+	text-align: center;
+}
+
+.imagemCentralizada{	
+	margin-left: auto;
+	margin-right: auto;
+	display: block;	
+}
+
+.divTopo{
+	padding-bottom: 10px;
+}
+
+.divCabecalho{
+	padding-bottom: 5px;
+}
+
+.ui-widget, .ui-widget .ui-widget {
+font-size: 95% !important;
+}
